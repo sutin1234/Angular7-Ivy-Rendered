@@ -1,4 +1,4 @@
-# Angular Ivy Example App
+# Angular 7 Ivy Rendered Example App
 
 Application for testing angular ivy renderer. With modules, components, directives, dependency injection ...
 
